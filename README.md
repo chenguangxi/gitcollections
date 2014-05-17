@@ -1,4 +1,4 @@
 gitcollections
 ==============
 
-collection links in gits
+collection links or contents from gits
